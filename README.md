@@ -1,2 +1,1 @@
-# sphere-public
-Sphere Public
+![(sphere)](https://raw.githubusercontent.com/PaulSpitzer/sphere-public/76294949539914e150c4f370a650043f5b38e820/sphere.png)
