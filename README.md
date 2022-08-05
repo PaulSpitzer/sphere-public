@@ -1,1 +1,1 @@
-![(sphere)](https://raw.githubusercontent.com/PaulSpitzer/sphere-public/76294949539914e150c4f370a650043f5b38e820/sphere.png)
+![(sphere)](https://github.com/PaulSpitzer/sphere-public/blob/main/sphere.png?raw=true)  
